@@ -1,8 +1,8 @@
 # ServiceBusEmulatorDemo
-Demo code for a service bus emulator
+Demo code for a service bus emulator.
 
 # Service Bus Emulator
-To get this demo running, Docker Engine and WSL will need to be installed first. 
+To get this demo running, Docker Engine and WSL will need to be installed first. You will also need to create a .env to specify ACCEPT_EULA and SQL_PASSWORD.
 
 1. Open up Docker Desktop which will start Docker Engine automatically.
 2. Open up a terminal and navigate to the ServiceBusEmulator, where the docker-compose file is located.
