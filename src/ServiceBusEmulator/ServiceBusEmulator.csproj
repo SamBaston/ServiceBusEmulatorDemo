@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Config\" />
+    <Folder Include="ConfigFiles\" />
   </ItemGroup>
 
 </Project>
